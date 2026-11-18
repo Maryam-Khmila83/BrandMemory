@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv-*/
+venv/
+test_ollama.py
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated vector database
+chroma_db/
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local development
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project data
+data/
+
+# Unused files
+frontend/README.md
+frontend/src/assets/react.svg
+frontend/src/assets/vite.svg
+src/generate_answer.py
+src/test_embeddings.py
