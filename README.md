@@ -16,7 +16,7 @@ The project demonstrates a complete RAG workflow, from document processing and e
 
 ## 🎥 LinkedIn Demo Video
 
-[https://lnkd.in/p/e3KbBm3Z](YOUR_LINKEDIN_DEMO_URL)
+[https://lnkd.in/p/ecVCfVQg](YOUR_LINKEDIN_DEMO_URL)
 
 ## Features
 
